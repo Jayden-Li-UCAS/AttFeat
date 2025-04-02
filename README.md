@@ -10,4 +10,6 @@
  The Utah AGRC dataset：https://downloads.greyc.fr/vedai/
  The Amazon Rainforest Satellite Monitoring dataset：https://www.kaggle.com/competitions/planet-understanding-the-amazon-from-space/data
 
+-Thanks to the contributions of the RedFeat algorithm, which can be referenced and cited in detail in "ReDFeat: Recoupling Detection and Description for Multimodal Feature Learning."
+
 
